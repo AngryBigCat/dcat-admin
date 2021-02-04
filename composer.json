@@ -1,11 +1,15 @@
 {
-    "name": "dcat/laravel-admin",
+    "name": "angry-one-cat/dcat-admin",
     "description": "dcat admin",
     "type": "library",
     "keywords": ["dcat", "laravel", "admin", "grid", "form", "laravel admin"],
     "homepage": "https://github.com/jqhph/dcat-admin",
     "license": "MIT",
     "authors": [
+        {
+            "name": "lk",
+            "email": "angrycat123@qq.com"
+        },
         {
             "name": "jqh",
             "email": "841324345@qq.com"
